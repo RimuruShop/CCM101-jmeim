@@ -31,3 +31,4 @@
 **Why it matters in cloud computing:** Most cloud servers use Linux distributions because they are lightweight, stable, and widely supported. The operating system provides the environment where cloud engineers configure, secure, and manage other resources.
 
 **Relation to KillerCoda:** My playground runs Ubuntu 24.04.4 LTS, which I confirmed using `cat /etc/os-release`. This is similar to the Linux distributions commonly installed on cloud virtual machines such as AWS EC2, Azure VMs, and Google Compute Engine.
+
