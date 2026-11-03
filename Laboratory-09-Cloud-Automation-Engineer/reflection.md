@@ -1,0 +1,9 @@
+# Reflection
+
+Automation is very important when handling multiple cloud servers because performing tasks manually on each machine takes a lot of time and increases the chances of making mistakes. A single script can perform the same task across many servers quickly and consistently. Unlike manual work, automated processes can repeat commands without someone having to enter them individually.
+
+However, automation can also create serious problems when errors are included in a script. If an administrator makes a mistake while managing one server manually, the damage may only affect that machine. But when an incorrect script is used across hundreds or thousands of servers, the same mistake can spread everywhere and cause major system failures. One example is the Knight Capital Group incident in 2012, where a software deployment error caused the company to lose $460 million in just 45 minutes.
+
+Creating a Bash script felt similar to learning basic programming because it involved using variables, conditions, and commands that execute in sequence. On the other hand, creating the Docker Compose YAML file in Mission 6 was different because it followed a declarative approach. Instead of specifying every step, I described how the containers should be configured, connected, and operated, allowing Docker to handle the deployment.
+
+Looking back at my GitHub portfolio from Laboratory 1 to Laboratory 9, I can see how much my knowledge of cloud computing has improved. I started with a basic understanding of the cloud as a place for storing files, but I now understand that it involves much more than that. I have learned about setting up infrastructure, deploying containers, managing storage, protecting servers with firewalls, monitoring system performance, and automating regular tasks. Each laboratory helped me build new skills and gain a better understanding of how cloud engineering works in real-world situations.
